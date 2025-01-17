@@ -1,5 +1,3 @@
-# Amazon-Stock-Price-Prediction-LSTM
-
 # Amazon Stock Price Prediction using LSTM
 
 This project demonstrates time series analysis and prediction of Amazon stock prices using a Long Short-Term Memory (LSTM) neural network. Built with PyTorch, the model leverages historical stock data to forecast future prices, enabling stock trend prediction based on past performance.
